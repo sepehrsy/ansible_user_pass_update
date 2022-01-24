@@ -1,0 +1,7 @@
+[all]
+
+host1		ansible_user=sepehr       ansible_port=22
+host2		ansible_user=sepehr       ansible_port=22
+host3		ansible_user=sepehr       ansible_port=22
+
+
